@@ -20,7 +20,7 @@ This project explores **Diwali retail sales data** to uncover customer purchasin
 - **Age Group**: **26–35 years** contributes the most buyers (4538).
 - **States**: Top buyers from **Uttar Pradesh, Maharashtra, Karnataka, and Delhi**.
 - **Occupation**: Dominated by **IT, Healthcare, Aviation, and Banking** sectors.
-- **Top Customers**: Highest spender is **Vishakha (₹3.8L)** followed by Sudevi and Vasudev.
+- **Purchase Amount Distribution**: Most purchases fall between 5k–10k, the distribution is right-skewed with multiple spending peaks, suggesting focus on mid-spenders and retention of high spenders.
 
 ### 🔹 Bivariate Analysis
 - **Gender vs Amount**: Females contribute higher revenue than males.
