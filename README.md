@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Data Analysis and Customer Insights
+# 🛍️ EDA on Diwali Sales Data
 
 ## 📌 Project Overview
 This project explores **Diwali retail sales data** to uncover customer purchasing behavior and generate actionable business insights. The analysis focuses on **customer demographics, regional trends, product preferences, and high-value buyers**. The goal is to demonstrate strong **exploratory data analysis (EDA)** and derive insights useful for marketing and business strategy.
